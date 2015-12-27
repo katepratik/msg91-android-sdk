@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
         String change = msg91.changePassword("old_password", "new_password");
         text.setText("Password Change : " + change);
 
-
         /*
 
  // --- [ SEND SMS ] --- [ SEND SMS ] --- [ SEND SMS ] --- [ SEND SMS ] --- [ SEND SMS ] ---
@@ -90,7 +89,6 @@ public class MainActivity extends AppCompatActivity {
         msg91.setCampaign("Campaign");
         msg91.setCountryCode("91");
 
-
         // .send must me called at the end of all the optional functions
         // NOTE : Before calling this function you MUST call .composeMessage & .to
 
@@ -98,6 +96,5 @@ public class MainActivity extends AppCompatActivity {
         text.setText("Send Status : " + sendStatus);
 
         */
-
     }
 }
