@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         msg91.composeMessage("ABCDEF", "This Sample message body that will be sent with sender id : ABCDEF");
 
         // .to(String) : will send message to single mobile number
-        msg91.to("987654321");
+        msg91.to("9876543210";
 
         // .to(ArrayList<String>) : will send message to all the number in the String
         msg91.to(mobileNumbers);
@@ -98,12 +98,6 @@ public class MainActivity extends AppCompatActivity {
         text.setText("Send Status : " + sendStatus);
 
         */
-
-
-        // katepratik id : 100545AU5duEWsk56768171
-
-        // 99digitech id : 98117Ae3PHTGjLGtv564c707c
-
 
     }
 }
