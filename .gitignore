@@ -43,4 +43,4 @@ testCache
 server.config
 
 # Jacoco
-jacoco.exec
+jacoco.exec.idea
