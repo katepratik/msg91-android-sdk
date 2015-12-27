@@ -1,5 +1,7 @@
 # MSG91 SDK for Android (Beta)
 
+[ ![Download](https://api.bintray.com/packages/katepratik/maven/msg91-android-sdk/images/download.svg) ](https://bintray.com/katepratik/maven/msg91-android-sdk/_latestVersion)
+
 Easy way to integrate [MSG91](https://msg91.com/) API's to your Android App.
 
 ## About MSG91
