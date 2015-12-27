@@ -37,11 +37,11 @@ public class MainActivity extends AppCompatActivity {
 
         /* Create MSG91 object with your Auth Key */
 
-        MSG91 msg91 = new MSG91("98117Ae3PHTGjLGtv564c707c");
+        MSG91 msg91 = new MSG91("your_auth_key");
 
         /* DEBUG MODE for testing */
 
-        MSG91 msg91Debug = new MSG91("98117Ae3PHTGjLGtv564c707c", true);
+        MSG91 msg91Debug = new MSG91("your_auth_key", true);
 
         /* VALIDATE */
 
